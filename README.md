@@ -1,4 +1,4 @@
-# chordEstimationMetric
+# Incorporating pitch content into chord estimation evaluation
 
 Jupyter notebook for the automatic chord estimation metric described in:
 
